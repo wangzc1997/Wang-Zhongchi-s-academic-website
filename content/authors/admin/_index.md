@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:test@example.org  # For a direct email link, use "mailto:test@example.org".
+  link: Wang Zhongchi:wangzc_1997@outlook.com  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
